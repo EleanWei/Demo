@@ -1,6 +1,6 @@
 //
-//  MyTests.m
-//  MyTests
+//  mmmmTests.m
+//  mmmmTests
 //
 //  Created by Elean on 16/3/29.
 //  Copyright (c) 2016年 Elean. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface MyTests : XCTestCase
+@interface mmmmTests : XCTestCase
 
 @end
 
-@implementation MyTests
+@implementation mmmmTests
 
 - (void)setUp {
     [super setUp];
